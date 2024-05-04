@@ -113,7 +113,7 @@ const Login = () => {
   return (
     <div
       style={{
-        backgroundImage: `url(../public/b.jpg)`, // Assuming bgImage is a variable holding the image URL
+        backgroundImage: `url(https://wallpapersmug.com/download/1920x1080/11a227/the-amazing-spider-man-digital-suit.jpg)`,
       }}
     >
       <Container
