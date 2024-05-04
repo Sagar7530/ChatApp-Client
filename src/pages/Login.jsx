@@ -127,7 +127,7 @@ const Login = () => {
         }}
       >
         <Paper
-          elevation={24}
+          elevation={25}
           sx={{
             padding: 4,
             display: "flex",
